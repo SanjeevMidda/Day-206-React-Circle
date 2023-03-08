@@ -1,0 +1,16 @@
+*{
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.routes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
